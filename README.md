@@ -33,9 +33,4 @@ Domains are `fce`, `wiki`, and `yahoo`.
 
 Data from the `yahoo` domain was sampled from the Yahoo Answers corpus, created from [L6 - Yahoo! Answers Comprehensive Questions and Answers version 1.0](https://webscope.sandbox.yahoo.com/catalog.php?datatype=l). This Yahoo Answers corpus can be requested free of charge for research purposes. Access to data from the `yahoo` domain will require you to first gain access to this Yahoo Answers corpus.
 
-Once you have gained access to the L6 corpus, please forward the acknowledgment to courtney.napoles@grammarly.com, along with your affiliation and a short description of how you will be using the data, and we will provide access to data from the `yahoo` domain.
-
-### Metric
-
-Coming soon. Please watch this repository or email courtney.napoles@grammarly.com
-for updates.
+Once you have gained access to the L6 corpus, please forward the acknowledgment to Grammarly (peng.wang@grammarly.com), along with your affiliation and a short description of how you will be using the data, and we will provide access to data from the `yahoo` domain.
